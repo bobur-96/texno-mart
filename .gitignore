@@ -1,7 +1,5 @@
 node_modules
 dist
-
 .env
-
 uploads
 docs-53-54.ts
